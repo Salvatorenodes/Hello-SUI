@@ -1,2 +1,2 @@
 Hello-SUI
-My first smart contract on SUI
+My first SUI smart contract 
